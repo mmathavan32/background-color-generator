@@ -1,0 +1,35 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  top: 15%;
+  background: linear-gradient(to right, #ffcc99, #ffccff);
+}
+
+h1 {
+  font: 800 3.5em "Poppins", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  width: 100%;
+}
+
+h2 {
+  font: 600 2em "Poppins", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  width: 100%;
+}
+
+h3 {
+  font: 800 1em "Poppins", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.2em;
+}
